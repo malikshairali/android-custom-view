@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="state" format="float"/>
+<!--        <attr name="state" format="enum">-->
+<!--            <enum name="happy" value="1" />-->
+<!--            <enum name="sad" value="0" />-->
+<!--        </attr>-->
+    </declare-styleable>
+</resources>
